@@ -1,5 +1,5 @@
 #Programa de cálculo de consumo elétrico
-#Autor: Barbara de Oliveira
+#Autor: Barbara Oliveira
 
 #Entrada de Dados
 aparelho = input("Digite o nome do aparelho: ")
@@ -13,4 +13,4 @@ custo_estimado = consumo_mensal * 0.50  # Custo estimado em reais (considerando 
 #Saída de Dados
 print(f"\nAparelho: {aparelho}")   
 print(f"Consumo mensal: {consumo_mensal:.2f} kWh")
-print(f"Custo estimado: R$ {custo_estimado:.2f}")
+print(f"Custo estimado: R${custo_estimado:.2f}")
