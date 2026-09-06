@@ -1,5 +1,5 @@
 # Programa de cálculo de média de notas
-# Autor: Barbara Oliveira
+# Autor: Barbara de Oliveira
 
 # Entrada de dados
 nome = input("Digite o nome do aluno: ")
