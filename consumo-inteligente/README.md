@@ -7,16 +7,10 @@ O projeto desenvolvido em Python tem como objetivo auxiliar os usuários no moni
 ---
 
 Fórmulas Utilizadas
-Para calcular o consumo e o custo, foram utilizadas as seguintes fórmulas:
+O programa realiza apenas dois cálculos simples:
 
-1. **Consumo Diário (kWh):**
-   $$\text{Consumo Diário} = \frac{\text{Potência (W)} \times \text{Horas por Dia}}{1000}$$
-
-2. **Consumo Mensal (kWh):**
-   $$\text{Consumo Mensal} = \text{Consumo Diário} \times 30$$
-
-3. **Custo Mensal estimado (R$):**
-   $$\text{Custo Mensal} = \text{Consumo Mensal} \times \text{Tarifa da Energia (R\$/kWh)}$$
+1. **Consumo mensal (kWh):** Multiplica a potência do aparelho pelas horas de uso diário e pelos 30 dias do mês, dividindo tudo por 1000.
+2. **Custo estimado (R$):** Multiplica o consumo mensal encontrado pelo valor da tarifa de energia por kWh.
 
 ---
 
