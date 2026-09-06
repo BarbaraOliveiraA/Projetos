@@ -20,4 +20,4 @@ Como Rodar o Programa
 
 1. Baixe os arquivos do projeto para o seu computador.
 2. Abra o arquivo do código no seu editor (como o VS Code).
-3. Abra o terminal e digite o comando:
+3. Execute o codigo no seu editor.
