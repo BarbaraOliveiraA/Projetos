@@ -2,11 +2,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 Sobre o Projeto
+
 O projeto desenvolvido em Python tem como objetivo auxiliar os usuários no monitoramento de gastos elétricos residenciais. O programa solicita o nome do aparelho, sua potência e o tempo diário de uso. Em seguida, calcula o consumo mensal e o custo estimado, exibindo os resultados finais ao usuário.
 
 ---
 
 Fórmulas Utilizadas
+
 O programa realiza apenas dois cálculos simples:
 
 1. **Consumo mensal (kWh):** Multiplica a potência do aparelho pelas horas de uso diário e pelos 30 dias do mês, dividindo tudo por 1000. 
