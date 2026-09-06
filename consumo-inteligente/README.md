@@ -11,7 +11,8 @@ Fórmulas Utilizadas
 
 O programa realiza apenas dois cálculos simples:
 
-1. **Consumo mensal (kWh):** Multiplica a potência do aparelho pelas horas de uso diário e pelos 30 dias do mês, dividindo tudo por 1000. 
+1. **Consumo mensal (kWh):** Multiplica a potência do aparelho pelas horas de uso diário e pelos 30 dias do mês, dividindo tudo por 1000.
+    
    (potencia * horasDia * 30) / 1000
 2. **Custo estimado (R$):** Multiplica o consumo mensal encontrado pelo valor da tarifa de energia por kWh.
    consumo_mensal * 0.50 (considerando R$ 0,50 por kWh)
