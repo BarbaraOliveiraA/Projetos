@@ -3,7 +3,7 @@
 ---
 Sobre o Projeto
 
-O projeto desenvolvido em Python tem como objetivo auxiliar os usuários no monitoramento de gastos elétricos residenciais. O programa solicita o nome do aparelho, sua potência e o tempo diário de uso. Em seguida, calcula o consumo mensal e o custo estimado, exibindo os resultados finais ao usuário.
+O projeto desenvolvido em Python tem como objetivo calcular o consumo mensal e custo estimado de um aparelho. O programa solicita o nome do aparelho, sua potência e o tempo diário de uso. Em seguida, calcula o consumo mensal e o custo estimado, exibindo os resultados finais ao usuário.
 
 ---
 
