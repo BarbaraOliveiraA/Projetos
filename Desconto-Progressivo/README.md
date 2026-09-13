@@ -15,10 +15,13 @@ O projeto desenvolvido em Python tem como objetivo calcular o desconto aplicado 
 O programa realiza os seguintes cálculos:
 
 1. **Valor do desconto (R$)**: Multiplica o valor total da compra pela taxa de desconto definida pela faixa de preço.
+   
    valor_compra * pct_desconto
 2. **Valor total a pagar (R$)**: Subtrai o valor do desconto calculado do valor original da compra.
+   
    valor_compra - valor_desconto
 3. **Porcentagem de desconto (%)**: Multiplica a taxa decimal por 100 e converte para número inteiro para exibição ao usuário.
+   
    int(pct_desconto * 100)
 ---
 
