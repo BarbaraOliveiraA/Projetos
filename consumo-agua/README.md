@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-O projeto desenvolvido em Python tem como objetivo classificar o perfil de consumo de água de um imóvel e informar sobre seu consumo. O programa solicita o tipo de imóvel (Apartamento, Casa ou Comercial) e o consumo mensal em metros cúbicos ($m^3$). Em seguida, valida as informações e aplica as regras de negócio de saneamento, exibindo a classificação e a mensagem correspondente ao usuário.
+O projeto desenvolvido em Python tem como objetivo classificar o perfil de consumo de água de um imóvel e informar sobre seu consumo. O programa solicita o tipo de imóvel (Apartamento, Casa ou Comercial) e o consumo mensal em metros cúbicos (m³). Em seguida, valida as informações e aplica as regras de negócio de saneamento, exibindo a classificação e a mensagem correspondente ao usuário.
 
 ---
 
