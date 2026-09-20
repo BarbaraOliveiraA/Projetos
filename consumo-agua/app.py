@@ -22,7 +22,7 @@ while True:
 
 while True:
     #Entrada e leitura de consumo
-    
+
     consumo_m = float(input("Informe o consumo mensal de água em metros cúbicos (m³): "))
     if consumo_m <0:
         print ("Valor negativo não permitido. Tente novamente.")
