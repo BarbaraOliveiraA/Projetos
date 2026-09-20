@@ -18,7 +18,7 @@ O projeto desenvolvido em Python tem como objetivo classificar o perfil de consu
 
 ---
 
-##  Regras o e Classificação
+##  Regras e Classificação
 
 | Tipo de Imóvel | Faixa de Consumo ($m^3$) | Mensagem Exibida|
 | :--- | :--- | :--- |
