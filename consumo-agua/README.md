@@ -23,9 +23,9 @@ O projeto desenvolvido em Python tem como objetivo classificar o perfil de consu
 | Tipo de Imóvel | Faixa de Consumo ($m^3$) | Mensagem Exibida|
 | :--- | :--- | :--- |
 | Comercial              | Qualquer valor      | Tarifa comercial aplicada – consulte o plano corporativo. |
-| Apartamento            | Menor que 10\,m^3$  | Consumo econômico – excelente controle de água! |
-| Apartamento / Casa     | Até 25\,m^3$        | Consumo moderado – dentro do padrão residencial. |
-| Outros casos           | Acima de 25\,m^3$   | Consumo excessivo – adote medidas de economia e verifique vazamentos.|
+| Apartamento            | Menor que 10\,m³    | Consumo econômico – excelente controle de água! |
+| Apartamento / Casa     | Até 25\,³           | Consumo moderado – dentro do padrão residencial. |
+| Outros casos           | Acima de 25\,m³     | Consumo excessivo – adote medidas de economia e verifique vazamentos.|
 
 ---
 
