@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Saneamento](https://img.shields.io/badge/Saneamento_Ambiental-0077B6?style=for-the-badge&logo=water&logoColor=white)
-
 ---
 
 ## Sobre o Projeto
@@ -15,7 +13,7 @@ O projeto desenvolvido em Python tem como objetivo classificar o perfil de consu
 ## Tecnologias Utilizadas
 
 * Python — Linguagem principal do projeto.
-* Estruturas de Repetição (while True) — Para validação contínua de dados com tratamento de erros (try/except).
+* Estruturas de Repetição (while True) — Para validação contínua de dados.
 * Estruturas de Decisão (match-case e if/elif/else) — Para seleção de opções e aplicação das regras de negócio.
 
 ---
@@ -24,10 +22,10 @@ O projeto desenvolvido em Python tem como objetivo classificar o perfil de consu
 
 | Tipo de Imóvel | Faixa de Consumo ($m^3$) | Alerta Emitido |
 
-| Comercial           | Qualquer valor      | Tarifa comercial aplicada – consulte o plano corporativo. |
-| Apartamento         | Menor que 10\,m^3$  | Consumo econômico – excelente controle de água! |
-| Apartamento / Casa  | Até 25\,m^3$        | Consumo moderado – dentro do padrão residencial. |
-| Outros casos        | Acima de 25\,m^3$   | Consumo excessivo – adote medidas de economia e verifique vazamentos.|
+| **Comercial**           | Qualquer valor      | Tarifa comercial aplicada – consulte o plano corporativo. |
+| **Apartamento*         | Menor que 10\,m^3$  | Consumo econômico – excelente controle de água! |
+| **Apartamento / Casa**  | Até 25\,m^3$        | Consumo moderado – dentro do padrão residencial. |
+| **Outros casos**        | Acima de 25\,m^3$   | Consumo excessivo – adote medidas de economia e verifique vazamentos.|
 
 ---
 
