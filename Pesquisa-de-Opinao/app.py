@@ -8,7 +8,7 @@ bom = 0
 ruim = 0
 
 #Cadastro dos clientes (100 clientes)
-for i in range (1,101):
+for i in range (1,11):
     nome = input(f"Informe o nome do {i}º cliente: ")
     idade = input(f"Informe a idade do {i}º cliente: " )
 
@@ -16,7 +16,7 @@ for i in range (1,101):
     opiniao = int (input ("Informe sua opinião sobre o grau de satisfacao ao atendiemto: \n" 
                             "1 - Execelente \n"
                             "2 - Bom \n" 
-                            "3 - Rruim \n"))
+                            "3 - Ruim \n"))
 
     #Repete a pergunta enquanto o valor digitado for diferente de 1, 2 e 3
     while opiniao != 1 and opiniao != 2 and opiniao != 3:
