@@ -14,7 +14,7 @@ O projeto desenvolvido se trata de uma pagina web simples desenvolvida em HTML5 
 
 ---
 
-# Conteudo da Pagina
+# Conteúdo da Página
 O site reune uma lista de acesso rapido para os sites abaixo mais utilizados pelo desenvolvedor:
 - HBO MAX
 - Netflix
